@@ -2,15 +2,18 @@
 
 <!--
 **j0hnsen23/j0hnsen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I’m a **Cybersecurity student at NTNU in Gjøvik**, currently working toward a Bachelor’s degree. I am interested in information security, ethical hacking, system security and understanding how infrastructures can be protected against modern threats.
+
+---
+
+- 🔭 I’m currently working on strengthening my practical cybersecurity skills through coursework, labs, and independent learning  
+- 🌱 I’m currently learning about system security, networking, threat analysis, and risk management  
+- 👯 I’m looking to collaborate on student projects, cybersecurity-related tools, or learning-focused initiatives  
+- 🤔 I’m looking for help with gaining real-world experience within cybersecurity and IT security environments  
+- 📫 How to reach me: via GitHub  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I’m a Formula 1 fan — I enjoy how performance, data, and strategy come together, much like in cybersecurity  
+
+---
