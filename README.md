@@ -4,7 +4,7 @@
 **j0hnsen23/j0hnsen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m a **Cybersecurity student at NTNU in Gjøvik**, currently working toward a Bachelor’s degree. I am interested in information security, ethical hacking, system security and understanding how infrastructures can be protected against modern threats.
+I’m a **Cybersecurity student at NTNU in Gjøvik**, currently working toward a Bachelor’s degree. 
 
 ---
 
