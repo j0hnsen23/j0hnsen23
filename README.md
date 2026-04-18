@@ -9,10 +9,9 @@ I’m a **Cybersecurity student at NTNU in Gjøvik**, currently working toward a
 ---
 
 - 🔭 I’m currently working on strengthening my practical cybersecurity skills through coursework, labs, and independent learning  
-- 🌱 I’m currently learning about system security, networking, threat analysis, and risk management  
+- 🌱 I’m currently learning about system security, networking, C++ programming, and software development  
 - 👯 I’m looking to collaborate on student projects, cybersecurity-related tools, or learning-focused initiatives  
-- 🤔 I’m looking for help with gaining real-world experience within cybersecurity and IT security environments  
-- 📫 How to reach me: via GitHub
+- 🤔 I’m looking for help with gaining real-world experience within cybersecurity and IT security environments
 - ⚡ Fun fact: I’m a Formula 1 fan — I enjoy how performance, data, and strategy come together, much like in cybersecurity  
 
 ---
